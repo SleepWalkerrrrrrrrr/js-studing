@@ -1,0 +1,4 @@
+/.vscode
+.jshint
+package-lock.json
+jsconfig.json
